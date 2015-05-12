@@ -2,4 +2,4 @@ Hobby-Projects
 ==============
 
 Hobby Projects
-Arduino, Raspberry Pi, and other stuff.
+Arduino, BeagleBone Black, Raspberry Pi, and other stuff.
